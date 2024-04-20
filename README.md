@@ -1,4 +1,5 @@
 ```HTML
+CS 지식 전용 레포입니다.
 📦CS-info-main
  ┣ 📂Cloud
  ┃ ┗ 📜Cloud.md
